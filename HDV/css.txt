@@ -1,0 +1,10 @@
+div {
+    color; red;
+}
+
+
+<body>
+        {
+                color:blue;
+        }
+</body>
